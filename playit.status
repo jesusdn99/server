@@ -1,45 +1,455 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mGot Error
-MSG: Failed to setup tunnel client
-Error: RequestError(TooManyRequests)
-[2J8[0mtunnel running[2J8[0mplayit (v0.15.22): 1725244257736 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 3 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.22): 1725245244676 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 floor-knowledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+pdf-collaboration.gl.at.ply.gg:1186 => 127.0.0.1:25565 (proto: Udp, port count: 1)
 longer-blend.gl.at.ply.gg:3648 => 127.0.0.1:25565 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1725244260796 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1725245247740 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 floor-knowledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+pdf-collaboration.gl.at.ply.gg:1186 => 127.0.0.1:25565 (proto: Udp, port count: 1)
 longer-blend.gl.at.ply.gg:3648 => 127.0.0.1:25565 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1725244263860 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1725245250802 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 floor-knowledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+pdf-collaboration.gl.at.ply.gg:1186 => 127.0.0.1:25565 (proto: Udp, port count: 1)
 longer-blend.gl.at.ply.gg:3648 => 127.0.0.1:25565 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1725244266929 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1725245253875 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 floor-knowledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+pdf-collaboration.gl.at.ply.gg:1186 => 127.0.0.1:25565 (proto: Udp, port count: 1)
 longer-blend.gl.at.ply.gg:3648 => 127.0.0.1:25565 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1725244269999 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1725245256938 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 floor-knowledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+pdf-collaboration.gl.at.ply.gg:1186 => 127.0.0.1:25565 (proto: Udp, port count: 1)
 longer-blend.gl.at.ply.gg:3648 => 127.0.0.1:25565 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1725244273074 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1725245260011 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 floor-knowledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+pdf-collaboration.gl.at.ply.gg:1186 => 127.0.0.1:25565 (proto: Udp, port count: 1)
 longer-blend.gl.at.ply.gg:3648 => 127.0.0.1:25565 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1725244276154 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1725245263077 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 floor-knowledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+pdf-collaboration.gl.at.ply.gg:1186 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+longer-blend.gl.at.ply.gg:3648 => 127.0.0.1:25565 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1725245266139 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+floor-knowledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+pdf-collaboration.gl.at.ply.gg:1186 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+longer-blend.gl.at.ply.gg:3648 => 127.0.0.1:25565 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1725245269235 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+floor-knowledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+pdf-collaboration.gl.at.ply.gg:1186 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+longer-blend.gl.at.ply.gg:3648 => 127.0.0.1:25565 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1725245272296 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+floor-knowledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+pdf-collaboration.gl.at.ply.gg:1186 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+longer-blend.gl.at.ply.gg:3648 => 127.0.0.1:25565 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1725245275355 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+floor-knowledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+pdf-collaboration.gl.at.ply.gg:1186 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+longer-blend.gl.at.ply.gg:3648 => 127.0.0.1:25565 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1725245278440 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+floor-knowledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+pdf-collaboration.gl.at.ply.gg:1186 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+longer-blend.gl.at.ply.gg:3648 => 127.0.0.1:25565 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1725245281519 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+floor-knowledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+pdf-collaboration.gl.at.ply.gg:1186 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+longer-blend.gl.at.ply.gg:3648 => 127.0.0.1:25565 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1725245284601 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+floor-knowledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+pdf-collaboration.gl.at.ply.gg:1186 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+longer-blend.gl.at.ply.gg:3648 => 127.0.0.1:25565 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1725245287664 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+floor-knowledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+pdf-collaboration.gl.at.ply.gg:1186 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+longer-blend.gl.at.ply.gg:3648 => 127.0.0.1:25565 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1725245290724 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+floor-knowledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+pdf-collaboration.gl.at.ply.gg:1186 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+longer-blend.gl.at.ply.gg:3648 => 127.0.0.1:25565 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1725245293789 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+floor-knowledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+pdf-collaboration.gl.at.ply.gg:1186 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+longer-blend.gl.at.ply.gg:3648 => 127.0.0.1:25565 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1725245296849 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+floor-knowledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+pdf-collaboration.gl.at.ply.gg:1186 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+longer-blend.gl.at.ply.gg:3648 => 127.0.0.1:25565 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1725245299906 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+floor-knowledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+pdf-collaboration.gl.at.ply.gg:1186 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+longer-blend.gl.at.ply.gg:3648 => 127.0.0.1:25565 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1725245303040 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+floor-knowledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+pdf-collaboration.gl.at.ply.gg:1186 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+longer-blend.gl.at.ply.gg:3648 => 127.0.0.1:25565 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1725245306118 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+floor-knowledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+pdf-collaboration.gl.at.ply.gg:1186 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+longer-blend.gl.at.ply.gg:3648 => 127.0.0.1:25565 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1725245309186 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+floor-knowledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+pdf-collaboration.gl.at.ply.gg:1186 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+longer-blend.gl.at.ply.gg:3648 => 127.0.0.1:25565 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1725245312257 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+floor-knowledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+pdf-collaboration.gl.at.ply.gg:1186 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+longer-blend.gl.at.ply.gg:3648 => 127.0.0.1:25565 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1725245315333 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+floor-knowledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+pdf-collaboration.gl.at.ply.gg:1186 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+longer-blend.gl.at.ply.gg:3648 => 127.0.0.1:25565 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1725245318390 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+floor-knowledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+pdf-collaboration.gl.at.ply.gg:1186 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+longer-blend.gl.at.ply.gg:3648 => 127.0.0.1:25565 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1725245321463 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+floor-knowledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+pdf-collaboration.gl.at.ply.gg:1186 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+longer-blend.gl.at.ply.gg:3648 => 127.0.0.1:25565 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1725245324521 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+floor-knowledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+pdf-collaboration.gl.at.ply.gg:1186 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+longer-blend.gl.at.ply.gg:3648 => 127.0.0.1:25565 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1725245327579 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+floor-knowledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+pdf-collaboration.gl.at.ply.gg:1186 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+longer-blend.gl.at.ply.gg:3648 => 127.0.0.1:25565 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1725245330635 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+floor-knowledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+pdf-collaboration.gl.at.ply.gg:1186 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+longer-blend.gl.at.ply.gg:3648 => 127.0.0.1:25565 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1725245333695 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+floor-knowledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+pdf-collaboration.gl.at.ply.gg:1186 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+longer-blend.gl.at.ply.gg:3648 => 127.0.0.1:25565 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1725245336759 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+floor-knowledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+pdf-collaboration.gl.at.ply.gg:1186 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+longer-blend.gl.at.ply.gg:3648 => 127.0.0.1:25565 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1725245339819 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+floor-knowledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+pdf-collaboration.gl.at.ply.gg:1186 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+longer-blend.gl.at.ply.gg:3648 => 127.0.0.1:25565 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1725245342880 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+floor-knowledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+pdf-collaboration.gl.at.ply.gg:1186 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+longer-blend.gl.at.ply.gg:3648 => 127.0.0.1:25565 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1725245345945 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+floor-knowledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+pdf-collaboration.gl.at.ply.gg:1186 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+longer-blend.gl.at.ply.gg:3648 => 127.0.0.1:25565 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1725245349013 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+floor-knowledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+pdf-collaboration.gl.at.ply.gg:1186 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+longer-blend.gl.at.ply.gg:3648 => 127.0.0.1:25565 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1725245352078 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+floor-knowledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+pdf-collaboration.gl.at.ply.gg:1186 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+longer-blend.gl.at.ply.gg:3648 => 127.0.0.1:25565 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1725245355146 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+floor-knowledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+pdf-collaboration.gl.at.ply.gg:1186 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+longer-blend.gl.at.ply.gg:3648 => 127.0.0.1:25565 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1725245358205 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+floor-knowledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+pdf-collaboration.gl.at.ply.gg:1186 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+longer-blend.gl.at.ply.gg:3648 => 127.0.0.1:25565 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1725245361271 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+floor-knowledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+pdf-collaboration.gl.at.ply.gg:1186 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+longer-blend.gl.at.ply.gg:3648 => 127.0.0.1:25565 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1725245364338 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+floor-knowledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+pdf-collaboration.gl.at.ply.gg:1186 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+longer-blend.gl.at.ply.gg:3648 => 127.0.0.1:25565 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1725245367411 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+floor-knowledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+pdf-collaboration.gl.at.ply.gg:1186 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+longer-blend.gl.at.ply.gg:3648 => 127.0.0.1:25565 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1725245370508 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+floor-knowledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+pdf-collaboration.gl.at.ply.gg:1186 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+longer-blend.gl.at.ply.gg:3648 => 127.0.0.1:25565 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1725245373571 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+floor-knowledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+pdf-collaboration.gl.at.ply.gg:1186 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+longer-blend.gl.at.ply.gg:3648 => 127.0.0.1:25565 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1725245376641 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+floor-knowledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+pdf-collaboration.gl.at.ply.gg:1186 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+longer-blend.gl.at.ply.gg:3648 => 127.0.0.1:25565 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1725245379710 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+floor-knowledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+pdf-collaboration.gl.at.ply.gg:1186 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+longer-blend.gl.at.ply.gg:3648 => 127.0.0.1:25565 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1725245382784 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+floor-knowledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+pdf-collaboration.gl.at.ply.gg:1186 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+longer-blend.gl.at.ply.gg:3648 => 127.0.0.1:25565 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1725245385845 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+floor-knowledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+pdf-collaboration.gl.at.ply.gg:1186 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+longer-blend.gl.at.ply.gg:3648 => 127.0.0.1:25565 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1725245388915 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+floor-knowledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+pdf-collaboration.gl.at.ply.gg:1186 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+longer-blend.gl.at.ply.gg:3648 => 127.0.0.1:25565 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1725245391980 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+floor-knowledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+pdf-collaboration.gl.at.ply.gg:1186 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+longer-blend.gl.at.ply.gg:3648 => 127.0.0.1:25565 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1725245395068 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+floor-knowledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+pdf-collaboration.gl.at.ply.gg:1186 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+longer-blend.gl.at.ply.gg:3648 => 127.0.0.1:25565 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1725245398126 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+floor-knowledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+pdf-collaboration.gl.at.ply.gg:1186 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+longer-blend.gl.at.ply.gg:3648 => 127.0.0.1:25565 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1725245401205 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+floor-knowledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+pdf-collaboration.gl.at.ply.gg:1186 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+longer-blend.gl.at.ply.gg:3648 => 127.0.0.1:25565 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1725245404279 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+floor-knowledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+pdf-collaboration.gl.at.ply.gg:1186 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+longer-blend.gl.at.ply.gg:3648 => 127.0.0.1:25565 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1725245407340 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+floor-knowledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+pdf-collaboration.gl.at.ply.gg:1186 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+longer-blend.gl.at.ply.gg:3648 => 127.0.0.1:25565 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1725245410411 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+floor-knowledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+pdf-collaboration.gl.at.ply.gg:1186 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+longer-blend.gl.at.ply.gg:3648 => 127.0.0.1:25565 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1725245413476 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+floor-knowledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+pdf-collaboration.gl.at.ply.gg:1186 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+longer-blend.gl.at.ply.gg:3648 => 127.0.0.1:25565 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1725245416545 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+floor-knowledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+pdf-collaboration.gl.at.ply.gg:1186 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+longer-blend.gl.at.ply.gg:3648 => 127.0.0.1:25565 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1725245419607 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+floor-knowledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+pdf-collaboration.gl.at.ply.gg:1186 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+longer-blend.gl.at.ply.gg:3648 => 127.0.0.1:25565 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1725245422669 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+floor-knowledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+pdf-collaboration.gl.at.ply.gg:1186 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+longer-blend.gl.at.ply.gg:3648 => 127.0.0.1:25565 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1725245425742 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+floor-knowledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+pdf-collaboration.gl.at.ply.gg:1186 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+longer-blend.gl.at.ply.gg:3648 => 127.0.0.1:25565 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1725245428803 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+floor-knowledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+pdf-collaboration.gl.at.ply.gg:1186 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+longer-blend.gl.at.ply.gg:3648 => 127.0.0.1:25565 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1725245431862 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+floor-knowledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+pdf-collaboration.gl.at.ply.gg:1186 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+longer-blend.gl.at.ply.gg:3648 => 127.0.0.1:25565 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1725245435014 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+floor-knowledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+pdf-collaboration.gl.at.ply.gg:1186 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+longer-blend.gl.at.ply.gg:3648 => 127.0.0.1:25565 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1725245438074 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+floor-knowledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+pdf-collaboration.gl.at.ply.gg:1186 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+longer-blend.gl.at.ply.gg:3648 => 127.0.0.1:25565 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1725245441141 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+floor-knowledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+pdf-collaboration.gl.at.ply.gg:1186 => 127.0.0.1:25565 (proto: Udp, port count: 1)
 longer-blend.gl.at.ply.gg:3648 => 127.0.0.1:25565 (minecraft-bedrock)
