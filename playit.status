@@ -453,3 +453,10 @@ TUNNELS
 floor-knowledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 pdf-collaboration.gl.at.ply.gg:1186 => 127.0.0.1:25565 (proto: Udp, port count: 1)
 longer-blend.gl.at.ply.gg:3648 => 127.0.0.1:25565 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1725245444209 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+floor-knowledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+pdf-collaboration.gl.at.ply.gg:1186 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+longer-blend.gl.at.ply.gg:3648 => 127.0.0.1:25565 (minecraft-bedrock)
